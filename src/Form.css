@@ -1,0 +1,35 @@
+.full-form{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.inp {
+    width: 100%;
+    height: 100px;
+    padding-top: 30px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.inp input{
+    width: 230px;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.btn{
+    width: 477px;
+    height: 40px;
+    background:linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+
+    color: white;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 10px;
+}
