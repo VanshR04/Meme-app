@@ -4,8 +4,8 @@ import React from 'react'
 
 function Form(){
     const [url,seturl] = React.useState('')
-    const [u, setu] = React.useState('')
-    const [l, setl] = React.useState('')
+    const [u, setu] = React.useState(' ')
+    const [l, setl] = React.useState(' ')
 
      
     function getMemeImage() {
